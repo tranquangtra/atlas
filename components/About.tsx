@@ -40,11 +40,10 @@ export default function About() {
           <div>
 
             <p className="text-lg leading-9 text-zinc-700">
-              I am an environmental scientist with broad interests across environmental science, 
-              from ecosystems and environmental change to data-driven analysis 
-              and geospatial technologies. My work brings together scientific research, spatial data, 
-              field observations to better understand environmental systems 
-              and the changes they undergo.
+              I am an environmental scientist with broad interests across environmental science and engineering,
+including environmental systems, wastewater treatment, ecosystems, and environmental change. My
+background combines scientific research, field observations, and geospatial technologies to better
+understand environmental processes and support practical solutions to environmental challenges.
 
             </p>
 
