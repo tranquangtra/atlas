@@ -38,7 +38,7 @@ return ( <section id="contact" className="relative py-24 md:py-32">
         </span>
 
         <a
-          href="mailto:tranquangtra1705@email.com"
+          href="mailto:tqtra@hcmus.edu.vn"
           className="text-zinc-900 hover:text-zinc-600 transition"
         >
           tranquangtra1705@gmail.com

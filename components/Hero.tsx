@@ -36,12 +36,12 @@ export default function Hero() {
 
             {/* Name */}
             <h1 className="mt-4 text-4xl md:text-5xl font-light tracking-tight">
-              Trần Quang Trà, MSc
+              Trần Quang Trà
             </h1>
 
             {/* Profession */}
             <p className="mt-4 text-xl text-zinc-300">
-              Environmental Scientist
+              Lecturer
             </p>
 
             {/* Research */}
